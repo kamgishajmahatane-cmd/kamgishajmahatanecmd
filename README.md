@@ -1,0 +1,2 @@
+# kamgishajmahatanecmd
+ant link remove
